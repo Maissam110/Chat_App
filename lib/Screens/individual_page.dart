@@ -307,6 +307,7 @@ class _IndividualPageState extends State<IndividualPage> {
         setState(() {
           _controller.text = _controller.text + emoji.emoji;
         });
+        // hello
       },
     );
   }
